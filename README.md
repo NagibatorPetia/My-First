@@ -10,6 +10,7 @@ To start working with the Site you need:
 
 3. Application for editing code.
 
-4. Access to the Git library
+4. Access to the Git library and Workbox library
 
 First you need to download the code, for this open the terminal and enter this command: git clone https://github.com/NagibatorPetia/My-PWA
+
