@@ -1,8 +1,8 @@
-My first PWA.
+#My first PWA.
 
 This is a site with a simple design and several pages that can be accessed via hyperlinks located on the site. The site can be used as a template for beginner web-programmers, because the page code is very small and simple, thanks to this even beginners who even have a little command of HTML-5, JavaScript and CSS can work with it.
 
-To start working with the Site you need:
+#To start working with the Site you need:
 
 1. Basic or superficial knowledge of HTML-5, JavaScript, CSS
 
