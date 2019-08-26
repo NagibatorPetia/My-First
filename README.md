@@ -17,6 +17,7 @@ First you need to download the code, for this open the terminal and enter this c
 Open the browser tab for http://localhost:****  (**** - your server address, 8081 for example)
 
 Enter this command in the terminal: 
+npm install
 npm start
 
 Congratulations, you got access to the site and its server!
