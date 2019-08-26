@@ -12,5 +12,10 @@ To start working with the Site you need:
 
 4. Access to the Git library and Workbox library
 
-First you need to download the code, for this open the terminal and enter this command: git clone https://github.com/NagibatorPetia/My-PWA
+First you need to download the code, for this open the terminal and enter this command: git clone https://github.com/NagibatorPetia/Weather.git
 
+Open the browser tab for http://localhost:8000
+
+You also need to enter your Dark Sky key.
+
+You can also use these tutorials https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=ru if you have any difficulties or problems with the site.
